@@ -1,0 +1,11 @@
+C:\csharp\ar\jumpstatements\bin\Debug\netcoreapp3.0\jumpstatements.exe
+C:\csharp\ar\jumpstatements\bin\Debug\netcoreapp3.0\jumpstatements.deps.json
+C:\csharp\ar\jumpstatements\bin\Debug\netcoreapp3.0\jumpstatements.runtimeconfig.json
+C:\csharp\ar\jumpstatements\bin\Debug\netcoreapp3.0\jumpstatements.runtimeconfig.dev.json
+C:\csharp\ar\jumpstatements\bin\Debug\netcoreapp3.0\jumpstatements.dll
+C:\csharp\ar\jumpstatements\bin\Debug\netcoreapp3.0\jumpstatements.pdb
+C:\csharp\ar\jumpstatements\obj\Debug\netcoreapp3.0\jumpstatements.csprojAssemblyReference.cache
+C:\csharp\ar\jumpstatements\obj\Debug\netcoreapp3.0\jumpstatements.AssemblyInfoInputs.cache
+C:\csharp\ar\jumpstatements\obj\Debug\netcoreapp3.0\jumpstatements.AssemblyInfo.cs
+C:\csharp\ar\jumpstatements\obj\Debug\netcoreapp3.0\jumpstatements.dll
+C:\csharp\ar\jumpstatements\obj\Debug\netcoreapp3.0\jumpstatements.pdb
